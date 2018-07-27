@@ -11,3 +11,4 @@ def turn_page
 end
   
 end
+ Book.new
