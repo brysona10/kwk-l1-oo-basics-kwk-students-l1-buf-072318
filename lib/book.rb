@@ -7,10 +7,11 @@ class Book
   def initialize(title)
     @title = title
   end
+  
   def turn_page
     puts "Flipping the page...wow, you read fast!"
   end
-  end
+end
  
 the_great_gatsby = Book.new("The Great Gatsby")
 
