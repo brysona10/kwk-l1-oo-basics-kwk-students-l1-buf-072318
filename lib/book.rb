@@ -12,7 +12,7 @@ def turn_page
 end
   end
  
-the_great_gatsby = Book.new ("The Great Gatsby")
+the_great_gatsby = Book.new("The Great Gatsby")
 
  
 the_great_gatsby.author = "F Scott Fitzgerald"
