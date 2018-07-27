@@ -7,6 +7,7 @@ def initialize(title)
   @title = title
 end
 def turn_page
+  puts ""
 end
   
 end
