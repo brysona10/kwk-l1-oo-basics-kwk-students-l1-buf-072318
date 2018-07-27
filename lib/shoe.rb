@@ -10,4 +10,5 @@ class Shoe
   
   def cobble 
     puts "th"
+  end
 end 
