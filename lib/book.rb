@@ -11,4 +11,8 @@ def turn_page
 end
   
 end
- Book.new(gets.chomp)
+ 
+ the_great_gatsby = Book.new("The Great Gatsby")
+ 
+ "The Great Gatsby"= "F Scott Fitzgerald"
+ 
