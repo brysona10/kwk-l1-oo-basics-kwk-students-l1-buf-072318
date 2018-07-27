@@ -13,4 +13,4 @@ class Shoe
   end
 end 
 
-puts Shoe.condition = new
+Shoe.condition = new
