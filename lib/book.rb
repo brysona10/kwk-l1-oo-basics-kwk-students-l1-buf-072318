@@ -1,7 +1,7 @@
 # book.rb
 # Add you Book class here
 
-class Book
+class Book 
   attr_reader :title 
   attr_accessor :author, :page_count, :genre
   
