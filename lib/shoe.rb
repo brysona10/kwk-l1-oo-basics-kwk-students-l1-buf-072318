@@ -15,4 +15,4 @@ class Shoe
   
 end 
 
-Shoe.condition.cobble == "new"
+Shoe.condition.cobble = "new"
