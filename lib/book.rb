@@ -12,11 +12,11 @@ end
   
 end
  
- the_great_gatsby = Book.new("The Great Gatsby")
+the_great_gatsby = Book.new("The Great Gatsby")
 brave_new_world = Book.new("Brave New World")
  
- the_great_gatsby.author = "F Scott Fitzgerald"
- the_great_gatsby.genre = "the great american novel"
+the_great_gatsby.author = "F Scott Fitzgerald"
+the_great_gatsby.genre = "the great american novel"
 
 puts the_great_gatsby.title
 puts brave_new_world.title
