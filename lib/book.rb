@@ -13,7 +13,7 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
   
-
+end 
  
 # the_great_gatsby = Book.new("The Great Gatsby")
 
