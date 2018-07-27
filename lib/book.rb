@@ -11,4 +11,4 @@ def turn_page
 end
   
 end
- Book.new("the great world spins")
+ Book.new(gets.chomp)
