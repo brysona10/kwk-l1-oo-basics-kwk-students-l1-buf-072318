@@ -13,5 +13,4 @@ class Shoe
   end
 end 
 
-Shoe.condition = ["New"]
-end
+puts Shoe.condition = ["New"]
