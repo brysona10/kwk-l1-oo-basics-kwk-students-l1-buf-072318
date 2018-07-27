@@ -1,5 +1,6 @@
 # book.rb
 # Add you Book class here
+
 class Book
   attr_reader :title 
   attr_accessor :author, :page_count, :genre
@@ -9,11 +10,10 @@ end
 def turn_page
   puts "Flipping the page...wow, you read fast!"
 end
-  
-end
+  end
  
-the_great_gatsby = Book.new("The Great Gatsby")
-brave_new_world = Book.new("Brave New World")
+the_great_gatsby = Book.new ("The Great Gatsby")
+brave_new_world = Book.new ("Brave New World")
  
 the_great_gatsby.author = "F Scott Fitzgerald"
 the_great_gatsby.genre = "the great american novel"
