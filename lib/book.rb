@@ -1,8 +1,9 @@
 # book.rb
 # Add you Book class here
 class Book
-  attr_reader :title
-def initialize(title)
+  attr_reader :title, :author
+def initialize(title, author)
   @title = title
+  @author = author
 end
 end
