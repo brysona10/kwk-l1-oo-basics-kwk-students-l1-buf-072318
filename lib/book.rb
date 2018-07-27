@@ -14,5 +14,5 @@ end
  
  the_great_gatsby = Book.new("The Great Gatsby")
  
- "The Great Gatsby"= "F Scott Fitzgerald"
+ the_great_gatsby = "F Scott Fitzgerald"
  
