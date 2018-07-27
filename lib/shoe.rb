@@ -10,9 +10,10 @@ class Shoe
   
   def cobble 
     puts "Your shoe is as good as new!"
+    : condition == "new"
   end
-  cobble == ["new"]
+  
   
 end 
 
-Shoe.condition = (cobble)
+Shoe.cobble
