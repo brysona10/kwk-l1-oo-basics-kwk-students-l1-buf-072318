@@ -13,4 +13,4 @@ class Shoe
   end
 end 
 
-shoe.condition = "New"
+Shoe.condition = "New"
