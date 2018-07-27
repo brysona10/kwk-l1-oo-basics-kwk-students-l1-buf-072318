@@ -4,6 +4,7 @@
 class Book
   attr_reader :title 
   attr_accessor :author, :page_count, :genre
+  
   def initialize(title)
     @title = title
   end
@@ -12,7 +13,7 @@ class Book
     puts "Flipping the page...wow, you read fast!"
   end
   
-end
+
  
 # the_great_gatsby = Book.new("The Great Gatsby")
 
