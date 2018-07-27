@@ -16,6 +16,6 @@ end
  
  the_great_gatsby.author = "F Scott Fitzgerald"
  the_great_gatsby.genre = "the great american novel"
-  puts the_great_gatsby.author.genre
+  puts the_great_gatsby.genre
   
  
